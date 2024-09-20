@@ -1,5 +1,6 @@
 replace_path="history/states"
 replace_path="map"
+replace_path="localisation/english"
 version="0.1"
 tags={
 	"Alternative History"
