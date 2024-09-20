@@ -1,10 +1,5 @@
 replace_path="history/states"
 replace_path="map"
-replace_path="common/national_focus"
-replace_path="common/ai_strategy"
-replace_path="common/ai_strategy_plans"
-replace_path="common/scripted_effects"
-replace_path="events"
 version="0.1"
 tags={
 	"Alternative History"
