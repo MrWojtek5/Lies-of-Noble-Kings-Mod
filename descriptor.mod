@@ -1,6 +1,5 @@
 replace_path="history/states"
 replace_path="map"
-replace_path="localisation/english"
 replace_path="gfx/loadingscreens"
 version="0.1"
 tags={
