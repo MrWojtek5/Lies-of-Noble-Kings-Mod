@@ -1,5 +1,8 @@
 replace_path="history/states"
 replace_path="map"
+replace_path="common/national_focus"
+replace_path="common/ai_strategy"
+replace_path="common/ai_strategy_plans"
 version="0.1"
 tags={
 	"Alternative History"
