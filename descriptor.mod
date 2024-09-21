@@ -1,6 +1,7 @@
 replace_path="history/states"
 replace_path="map"
 replace_path="gfx/loadingscreens"
+replace_path="common/national_focus"
 version="0.1"
 tags={
 	"Alternative History"
